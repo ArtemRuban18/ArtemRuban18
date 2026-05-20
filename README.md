@@ -1,8 +1,8 @@
-👋 Hi, I'm Artem Ruban
+## 👋 Hi, I'm Artem Ruban
 
 🚀 Python Backend Developer focused on building scalable server-side applications using Django and modern web technologies.
 
-I’m currently looking for my first opportunity in IT where I can contribute, grow, and deepen my expertise in backend development.
+ I’m currently looking for my first opportunity in IT where I can contribute, grow, and deepen my expertise in backend development.
 
 🧠 About Me
 
@@ -14,7 +14,7 @@ I’m currently looking for my first opportunity in IT where I can contribute, g
 🔹 Good understanding of HTTP, databases, and web architecture
 
 🔹 Constantly learning and improving through real projects
-
+## 
 
 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@ I’m currently looking for my first opportunity in IT where I can contribute, g
 ![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=Celery)
 
 
-
+## 
 📈 What I'm Working On
 
 
@@ -39,9 +39,10 @@ I’m currently looking for my first opportunity in IT where I can contribute, g
 
 
 🔹Practicing clean code and best practices
+## 
 📫 Contact Me
 
 
 ✉️ Email: artemruban762@gmail.com
-
+## 
 ⭐️ Open to junior backend opportunities and collaborations
