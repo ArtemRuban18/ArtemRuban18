@@ -1,8 +1,16 @@
-## Hi, My name is Artem Ruban👋
+👋 Hi, I'm Artem Ruban
 
-I`m Python Backend Developer with a focus on building server-side applications using Python and Django.  Now I am looking for opportunities to start in IT and professional development.
+🚀 Python Backend Developer focused on building scalable server-side applications using Django and modern web technologies.
 
-### Languages and Technologies
+I’m currently looking for my first opportunity in IT where I can contribute, grow, and deepen my expertise in backend development.
+
+🧠 About Me
+🔹 Strong foundation in Python & Django
+🔹 Experience building full backend applications (REST, auth, DB)
+🔹 Good understanding of HTTP, databases, and web architecture
+🔹 Constantly learning and improving through real projects
+
+🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django)
 ![PostrgeSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
@@ -11,4 +19,11 @@ I`m Python Backend Developer with a focus on building server-side applications u
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis)
 ![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=Celery)
 
-### ✉️ Mail me: artemruban762@gmail.com
+📈 What I'm Working On
+Building Django projects with authentication, APIs, and Docker
+Improving knowledge of system design & backend architecture
+Practicing clean code and best practices
+📫 Contact Me
+✉️ Email: artemruban762@gmail.com
+
+⭐️ Open to junior backend opportunities and collaborations
