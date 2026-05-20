@@ -5,6 +5,8 @@
 I’m currently looking for my first opportunity in IT where I can contribute, grow, and deepen my expertise in backend development.
 
 🧠 About Me
+
+
 🔹 Strong foundation in Python & Django
 
 🔹 Experience building full backend applications (REST, auth, DB)
@@ -30,9 +32,13 @@ I’m currently looking for my first opportunity in IT where I can contribute, g
 📈 What I'm Working On
 
 
-Building Django projects with authentication, APIs, and Docker
-Improving knowledge of system design & backend architecture
-Practicing clean code and best practices
+🔹Building Django projects with authentication, APIs, and Docker
+
+
+🔹Improving knowledge of system design & backend architecture
+
+
+🔹Practicing clean code and best practices
 📫 Contact Me
 
 
