@@ -26,6 +26,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis)
 ![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=Celery)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq)
+
 
 
 ## 
